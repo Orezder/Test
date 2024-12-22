@@ -1,11 +1,11 @@
-#include <iostream>
+﻿#include <iostream>
 #include <locale>
 #include <cstdlib>
 #include <cstring>
 #include <fstream>
 #include <string>
 #include <limits>
-
+//com
 struct visit
 {
     std::string patient;
